@@ -28,13 +28,34 @@ Introducing my new food website! This desktop-only website offers a seamless nav
 Clone the repository:
 
 Copy code
-git clone https://github.com/nithikzzz/nithikzzz.github.git
+git clone [https://github.com/nithikzzz/nithikzzz.github.git](https://github.com/nithikzzz/nithikzzz.github.io.git)
 
-Navigate to the project directory:        
+Navigate to the project directory:
+
 cd food-website
 
+        Usage
+Open index.html in your web browser to view the website.
 
 
+        Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+-- Fork the repository.                            
+-- Create a new branch (git checkout -b feature-branch).                
+-- Make your changes and commit them (git commit -m 'Add new feature').                
+-- Push to the branch (git push origin feature-branch).           
+-- Open a pull request.            
+
+        Contact
+For any inquiries or feedback, please contact me at:
+
+-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nithiya-priya-03b877277/)                
+-- Email: nithiyapriya446@gmail.com   
+
+Visit the website on your desktop today for an incredible culinary adventure! 🍕🍣🍩                
+-- Source Code: [GitHub Repository](https://lnkd.in/gvj23mNc)            
+-- Webpage (Desktop view): [Live Website](https://lnkd.in/g66i_5EN)
 
 
 
